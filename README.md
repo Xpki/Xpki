@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hi 👋, I'm Xpki
 
-<!--
-**Xpki/Xpki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### "Everybody in this country should learn to program a computer because it teaches you how to think." - Steve Jobs
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+  "name": "Xpki",
+  "age": 14,
+  "intrests": ["programming", "gaming", "foss software", "digital privacy"],
+  "operatingSystem": "Windows 10",
+  "browser": "Chrome",
+  "programmingLanguages": ["Lua", "HTML", "", "Python", "CSS", "Markdown"],
+  "editor": "VSCodium",
+  "socials": {
+    "emails": ["hackerboi8900@gmail.com"],
+    "discord": {
+      "server": "https://discord.gg/hThfvmKqHn",
+      "username": "Xpki#0001"
+    },
+    "spotify": "open.spotify.com/user/z3dlpi0cfntezy77ypqi8xass",
+    "minecraft": "Xpki",
+    "xboxlive": "HydroVesper2",
+    "reddit": "u/xpki",
+    "steam": "steamcommunity.com/id/Xpki](https://steamcommunity.com/profiles/76561199202194960"
+  },
+  "certifications": ["A+ (Unoffical)"],
+  "learning": "C#",
+  "hasBrainDamage": true
+}
+```
