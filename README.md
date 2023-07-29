@@ -9,13 +9,13 @@
   "intrests": ["programming", "gaming", "foss software", "digital privacy"],
   "operatingSystem": "Windows 10",
   "browser": "Chrome",
-  "programmingLanguages": ["Lua", "HTML", "", "Python", "CSS", "Markdown"],
+  "programmingLanguages": ["Lua", "HTML", "", "Python", "CSS"],
   "editor": "VSCodium",
   "socials": {
     "emails": ["hackerboi8900@gmail.com"],
     "discord": {
       "server": "https://discord.gg/hThfvmKqHn",
-      "username": "Xpki#0001"
+      "username": "skilled_btw"
     },
     "spotify": "open.spotify.com/user/z3dlpi0cfntezy77ypqi8xass",
     "minecraft": "Xpki",
