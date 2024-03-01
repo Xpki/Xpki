@@ -10,12 +10,12 @@
   "operatingSystem": "Windows 10",
   "browser": "Chrome",
   "programmingLanguages": ["Lua", "HTML", "", "Python", "CSS"],
-  "editor": "VSCodium",
+  "editor": "VSC",
   "socials": {
     "emails": ["hackerboi8900@gmail.com"],
     "discord": {
       "server": "https://discord.gg/hThfvmKqHn",
-      "username": "skilled_btw"
+      "username": "xpki"
     },
     "spotify": "open.spotify.com/user/z3dlpi0cfntezy77ypqi8xass",
     "minecraft": "Xpki",
@@ -24,7 +24,7 @@
     "steam": "steamcommunity.com/id/Xpki](https://steamcommunity.com/profiles/76561199202194960"
   },
   "certifications": ["A+ (Unoffical)"],
-  "learning": "C#",
+  "learning": "Js",
   "hasBrainDamage": true
 }
 ```
