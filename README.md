@@ -4,27 +4,26 @@
 
 ```json
 {
-  "name": "Xpki",
+  "name": "Iza",
   "age": 14,
   "intrests": ["programming", "gaming", "foss software", "digital privacy"],
-  "operatingSystem": "Windows 10",
+  "operatingSystem": "Windows 11",
   "browser": "Chrome",
-  "programmingLanguages": ["Lua", "HTML", "", "Python", "CSS"],
+  "programmingLanguages": ["Lua", "HTML", "JS", "CSS"],
   "editor": "VSC",
   "socials": {
     "emails": ["hackerboi8900@gmail.com"],
     "discord": {
-      "server": "https://discord.gg/hThfvmKqHn",
-      "username": "xpki"
+      "username": "iza.html"
     },
     "spotify": "open.spotify.com/user/z3dlpi0cfntezy77ypqi8xass",
-    "minecraft": "Xpki",
+    "minecraft": "Izahtml",
     "xboxlive": "HydroVesper2",
     "reddit": "u/xpki",
-    "steam": "steamcommunity.com/id/Xpki](https://steamcommunity.com/profiles/76561199202194960"
+    "steam": "steamcommunity.com/id/Iza](https://steamcommunity.com/profiles/76561199202194960"
   },
   "certifications": ["A+ (Unoffical)"],
-  "learning": "Js",
+  "learning": "c++",
   "hasBrainDamage": true
 }
 ```
